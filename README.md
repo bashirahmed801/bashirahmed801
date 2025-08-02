@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Bashir Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Bashir Ahmed</h1>
 <h3 align="center">
 I'm a Frontend developer , passionate about building innovative, scalable, and user-friendly web and mobile applications.
 </h3>
